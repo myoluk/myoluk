@@ -32,7 +32,7 @@
 
 <br/>
 
-🚀 `Python` `C` `C#` `Java` `JavaScript` `SQL` `BigQuery` `Airflow` `Kafka` `Unity3D` `Linux` `Git` `TensorFlow`
+🚀 `Python` `C` `C#` `Java` `Spring Boot` `JavaScript` `SQL` `BigQuery` `Airflow` `Kafka` `Unity3D` `Linux` `Git`
 
 🚀 `Cloud Computing` `OOP` `Design Patterns` `Software Development` `Game Development` `AI` `Big Data`
 
