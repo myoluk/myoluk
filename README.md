@@ -28,12 +28,12 @@
 
 <details>
 
-<summary>🎯 professional skills <i>-click to expand-</i></summary>
+<summary>🎯 technical skills <i>-click to expand-</i></summary>
 
 <br/>
 
-🚀 `Python` `C` `C#` `Java` `Spring Boot` `JavaScript` `SQL` `BigQuery` `Airflow` `Kafka` `Unity3D` `Linux` `Git`
+🚀 `Python` `Java` `Spring Boot` `JavaScript` `SQL` `Kafka` `Neo4j` `Git` `Linux` `AI` `Airflow` `BigQuery`
 
-🚀 `Cloud Computing` `OOP` `Design Patterns` `Software Development` `Game Development` `AI` `Big Data`
+🚀 `Unity3D` `C#` `Game Development` `OOP` `Design Patterns` `Software Engineering`
 
 </details>
