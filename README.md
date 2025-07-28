@@ -16,7 +16,7 @@
 
 `🌐`[`myoluk | github.io`](https://myoluk.github.io/ "github.io")
 
-`🌐`[`myoluk | itch.io`](https://myoluk.github.io/ "itch.io")
+`🌐`[`myoluk | itch.io`](https://myoluk.itch.io/ "itch.io")
 
 `🖥️` `software development`
 
