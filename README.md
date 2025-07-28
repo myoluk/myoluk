@@ -14,7 +14,9 @@
   </a>
 </p>
 
-`🌐`[`myoluk | portfolio page`](https://myoluk.github.io/ "Portfolio Page")
+`🌐`[`myoluk | github.io`](https://myoluk.github.io/ "github.io")
+
+`🌐`[`myoluk | itch.io`](https://myoluk.github.io/ "itch.io")
 
 `🖥️` `software development`
 
